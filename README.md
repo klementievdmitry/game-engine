@@ -19,9 +19,9 @@ See [dependencies](#dependencies)
 
 ### Linux
 
-We provide guides only for Guix and Nix. Don't write issues if you can problem
-on other distros with other package manager, but all should work fine if you install one of
-these package managers on other linux distros such debian, arch, redhat and e.t.c.
+We provide guides only for Guix and Nix. Don't create issues if you have problem
+on other distros with other package manager, but all should work fine if you install Guix
+or Nix on other linux distros.
 
 #### Guix
 
